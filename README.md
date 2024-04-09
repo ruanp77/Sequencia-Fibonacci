@@ -1,5 +1,5 @@
 
-# 🌟 Sequência de Fibonacci em PHP 🌈
+# 🌟 Sequência de Fibonacci em PHP 
 
 Este projeto consiste em uma página web simples que permite gerar os primeiros números da sequência de Fibonacci com base em um número fornecido pelo usuário. A sequência de Fibonacci é uma série de números em que cada número subsequente é a soma dos dois números anteriores.
 
